@@ -627,4 +627,10 @@ Menjadi Backend Engineer Go yang mampu memahami:
 - Performance
 - Production Best Practice
 
+# Note!!!!
+
+- Apa yang di-copy?
+- Apa yang ada di stack dan apa yang mungkin ada di heap?
+- Kenapa pembuat Go menyediakan cara ini?
+
 > **Goal:** Bukan hanya bisa menulis Go, tetapi memahami alasan di balik setiap baris kode yang ditulis.
